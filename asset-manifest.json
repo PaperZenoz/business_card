@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/business_card/static/css/main.acbd5b43.css",
+    "main.css": "/business_card/static/css/main.152bfa82.css",
     "main.js": "/business_card/static/js/main.a6ecc62b.js",
     "index.html": "/business_card/index.html",
-    "main.acbd5b43.css.map": "/business_card/static/css/main.acbd5b43.css.map",
+    "main.152bfa82.css.map": "/business_card/static/css/main.152bfa82.css.map",
     "main.a6ecc62b.js.map": "/business_card/static/js/main.a6ecc62b.js.map"
   },
   "entrypoints": [
-    "static/css/main.acbd5b43.css",
+    "static/css/main.152bfa82.css",
     "static/js/main.a6ecc62b.js"
   ]
 }
