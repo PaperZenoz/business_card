@@ -4,7 +4,7 @@ const About = () => {
         <section className="about">
             <h2>О себе</h2>
             <div className="about__img img">
-                <img loading="lazy" src="images/about/1.webp" alt="Человек"/>
+                <img src="images/about/1.webp" alt="Человек"/>
             </div>
             <p>
                 Приветствую! Меня зовут Вова. С
