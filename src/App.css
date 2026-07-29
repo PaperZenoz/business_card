@@ -39,3 +39,7 @@ html{scroll-behavior:smooth;scrollbar-color:var(--border-color) #fff}body{font-f
     border-right: 2px solid var(--color-second);
     transform: rotate(45deg);
 }
+
+.services > img{
+    aspect-ratio: 900 / 742;
+}
